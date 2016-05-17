@@ -1,0 +1,12 @@
+{
+	"name": "sugarisgood",
+	"description": "CHANGE DESCRIPTION!!!!!!!!!",
+	"author": "dylanksys",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dylanksys/sugarisgood"
+	},
+	"dependencies": {
+		"express": "4.13.4"
+	}
+}
